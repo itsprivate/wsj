@@ -38,8 +38,8 @@ const siteMetadata = {
   ],
   social: [
     {
-      name: `Google News`,
-      url: `https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB`,
+      name: `/r/100yearsago`,
+      url: `https://www.reddit.com/r/100yearsago/`,
       external: true,
     },
     {
