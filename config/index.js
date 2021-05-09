@@ -4,7 +4,7 @@ const siteMetadata = {
   locale: "zh",
   title: "华尔街日报热门",
   shortTitle: "华尔街日报",
-  description: "用中文浏览1华尔街日报热门报道",
+  description: "用中文浏览华尔街日报热门报道",
   keywords: ["buzzing", "华尔街日报", "wsj","华尔街日报中文网"],
   telegram: "@buzzingcc",
   telegram_chat_id: "-1001406368978",
@@ -71,7 +71,7 @@ const siteMetadata = {
       locale: "zh-Hant",
       title: "華爾街日報熱門",
       shortTitle: "華爾街日報",
-      description: "用中文瀏覽1華爾街日報熱門報導",
+      description: "用中文瀏覽華爾街日報熱門報導",
       keywords: ["buzzing", "華爾街日報", "wsj","華爾街日報中文網"],
       menuLinks: [
         // {
